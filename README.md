@@ -1,1 +1,1 @@
-#repo for ML app for Titanic pred
+# repo for ML app for Titanic pred
